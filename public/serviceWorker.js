@@ -13,3 +13,5 @@ self.addEventListener("install", function (event) {
 });
 
 self.addEventListener("fetch", (e) => {});
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="6b314180-a9dd-4b25-b4c5-a42d57694167";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
