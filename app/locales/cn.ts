@@ -266,7 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "GPT账号 <a href='https://maihao.us'>maihao.us</a>  |  <a href='https://节点机场.com'>魔法 节点机场.com</a>",
+    BotHello: "GPT账号 maihao.us | 魔法 节点机场.com",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
